@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(container);
 root.render(
   <BrowserRouter>
     <Helmet>
-      <title>miniElection - small open source applications</title>
+      <title>miniElectron - small open source applications</title>
       <meta
         name="description"
         content="Small apps written to do a variety of cool coder related things."
