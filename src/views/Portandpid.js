@@ -1,4 +1,4 @@
-function Codeman() {
+function Portandpid() {
   return (
     <div className="bg-slate-100 text-slate-700 h-screen flex items-center">
       <section className="mx-auto text-center">
@@ -17,4 +17,4 @@ function Codeman() {
   );
 }
 
-export default Codeman;
+export default Portandpid;
