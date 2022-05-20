@@ -23,6 +23,18 @@ function App() {
               Open
             </a>
           </div>
+          <div className="border border-gray-900 bg-slate-900 p-6 shadow-xl rounded">
+            <h2 className="text-xl font-medium">Port&amp;PID</h2>
+            <p className="text-xs text-slate-400">
+              [Port &amp; Process Identifier (PID) Manager]
+            </p>
+            <a
+              href="/portandpid"
+              className="py-1 px-2 border border-slate-900 rounded mt-2 font-medium inline-block bg-slate-700 text-sm"
+            >
+              Open
+            </a>
+          </div>
         </main>
       </section>
     </div>
